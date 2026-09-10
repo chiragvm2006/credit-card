@@ -1,5 +1,6 @@
 """Credit card recommendation engine."""
 
+import os
 import pandas as pd
 from sklearn.neighbors import NearestNeighbors
 from sklearn.preprocessing import MinMaxScaler
@@ -12,9 +13,16 @@ CATEGORIES = ["travel", "food", "shopping", "fuel", "general", "online"]
 FEATURES = ["reward_rate_top_category", "annual_fee", "joining_bonus_value", "lounge_access"]
 FEATURE_WEIGHTS = [3.0, 2.0, 0.5, 0.5]
 
+# Resolve the CSV path relative to this file, not the working directory —
+# the working directory Streamlit Cloud runs from isn't guaranteed to be
+# the project root, so a bare "data/cards.csv" can silently break there
+# even though it works fine locally.
+_HERE = os.path.dirname(os.path.abspath(__file__))
+DEFAULT_CARDS_PATH = os.path.join(_HERE, "data", "cards.csv")
 
-def load_cards(path="data/cards.csv"):
-    return pd.read_csv(path)
+
+def load_cards(path=None):
+    return pd.read_csv(path or DEFAULT_CARDS_PATH)
 
 
 def find_eligible(cards, income, credit_score, max_fee=None):
