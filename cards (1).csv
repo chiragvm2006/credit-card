@@ -1,0 +1,103 @@
+card_name,bank,annual_fee,min_income,min_credit_score,top_category,reward_rate_top_category,joining_bonus_value,lounge_access
+Scapia Axis Bank Credit Card,Axis Bank,0.0,20000.0,680.0,travel,2.0,0,0
+IndiGo Axis Bank Credit Card,Axis Bank,0.0,20000.0,680.0,travel,2.0,1200,0
+Axis Bank Privilege Credit Card,Axis Bank,0.0,20000.0,680.0,food,1.0,12500,0
+Axis Bank My Zone Easy Credit Card,Axis Bank,0.0,20000.0,680.0,general,2.0,0,0
+Atlas Credit Card,Axis Bank,0.0,20000.0,680.0,travel,1.5,0,1
+LIC Axis Bank Platinum Credit Card,Axis Bank,0.0,20000.0,680.0,fuel,2.0,0,0
+Axis Bank Pride Platinum Credit Card,Axis Bank,250.0,30000.0,700.0,food,2.0,0,0
+Axis Bank Pride Signature Credit Card,Axis Bank,500.0,30000.0,700.0,food,2.0,0,0
+Flipkart Axis Bank Super Credit Card,Axis Bank,500.0,30000.0,700.0,shopping,12.0,500,0
+Samsung Axis Bank Credit Card,Axis Bank,500.0,30000.0,700.0,shopping,10.0,0,0
+Samsung Axis Bank Infinite Credit Card,Axis Bank,500.0,30000.0,700.0,shopping,10.0,2500,0
+Axis Bank AURA Credit Card,Axis Bank,749.0,30000.0,700.0,shopping,1.0,750,0
+SpiceJet Axis Bank Credit Card,Axis Bank,750.0,30000.0,700.0,travel,1.5,1500,1
+Axis Bank My Zone Credit Card,Axis Bank,1000.0,50000.0,720.0,food,1.0,1499,1
+IndianOil Axis Bank Premium Credit Card,Axis Bank,1000.0,50000.0,720.0,fuel,6.0,0,0
+Axis Bank Vistara Credit Card,Axis Bank,1500.0,50000.0,720.0,travel,1.0,0,0
+SpiceJet Axis Bank Voyage Credit Card,Axis Bank,2000.0,50000.0,720.0,travel,2.0,4000,0
+Axis Bank Vistara Signature Credit Card,Axis Bank,3000.0,100000.0,750.0,travel,2.0,0,0
+Axis Bank Miles & More Credit Card,Axis Bank,3500.0,100000.0,750.0,travel,5.0,0,1
+IndiGo Axis Bank Credit Card XL,Axis Bank,5000.0,250000.0,780.0,travel,7.0,0,0
+Axis Bank Magnus Credit Card,Axis Bank,12500.0,250000.0,780.0,travel,5.0,12500,1
+Axis Bank Reserve Credit Card,Axis Bank,50000.0,1000000.0,800.0,travel,3.0,15000,1
+PIXEL Play Credit Card,HDFC Bank,0.0,15000.0,650.0,shopping,5.0,0,0
+PIXEL Go Credit Card,HDFC Bank,0.0,15000.0,650.0,shopping,1.0,0,0
+Swiggy Ornge HDFC Bank Credit Card,HDFC Bank,0.0,15000.0,650.0,food,5.0,0,0
+Paytm HDFC Bank Mobile Credit Card,HDFC Bank,0.0,15000.0,650.0,online,2.0,0,0
+Paytm HDFC Bank Digital Credit Card,HDFC Bank,0.0,15000.0,650.0,online,2.0,0,0
+PhonePe HDFC Bank Uno Credit Card,HDFC Bank,0.0,15000.0,650.0,online,2.0,0,0
+Tata Neu Plus HDFC Bank Credit Card,HDFC Bank,499.0,25000.0,700.0,shopping,2.0,0,0
+PhonePe HDFC Bank Ultimo Credit Card,HDFC Bank,499.0,25000.0,700.0,online,10.0,0,0
+MoneyBack+ Credit Card,HDFC Bank,500.0,25000.0,700.0,shopping,2.5,500,0
+IndianOil Credit Card,HDFC Bank,500.0,25000.0,700.0,fuel,5.0,0,0
+Freedom Credit Card,HDFC Bank,500.0,25000.0,700.0,shopping,2.5,0,0
+Swiggy HDFC Bank Credit Card,HDFC Bank,500.0,25000.0,700.0,food,10.0,0,0
+IRCTC HDFC Bank Credit Card,HDFC Bank,500.0,25000.0,700.0,travel,5.0,500,1
+Shoppers Stop Black HDFC Bank Credit Card,HDFC Bank,500.0,25000.0,700.0,shopping,7.0,1500,0
+Shoppers Stop HDFC Bank Credit Card,HDFC Bank,500.0,25000.0,700.0,shopping,3.0,500,0
+Paytm HDFC Bank Select Credit Card,HDFC Bank,500.0,25000.0,700.0,online,5.0,0,1
+Paytm HDFC Bank Credit Card,HDFC Bank,500.0,25000.0,700.0,online,3.0,0,0
+Easy EMI Card,HDFC Bank,500.0,25000.0,700.0,shopping,5.0,1000,0
+Millennia Credit Card,HDFC Bank,1000.0,35000.0,720.0,shopping,5.0,1000,0
+Tata Neu Infinity HDFC Bank Credit Card,HDFC Bank,1499.0,50000.0,730.0,shopping,5.0,0,1
+Regalia Credit Card,HDFC Bank,2500.0,100000.0,750.0,travel,4.0,0,1
+Regalia Gold Credit Card,HDFC Bank,2500.0,100000.0,750.0,shopping,5.0,2500,1
+Regalia First Credit Card,HDFC Bank,2500.0,100000.0,750.0,travel,3.0,0,1
+Regalia Activ HDFC Bank Credit Card,HDFC Bank,2500.0,100000.0,750.0,travel,2.5,0,1
+Diners Club Privilege Credit Card,HDFC Bank,2500.0,100000.0,750.0,food,5.0,0,1
+Swiggy BLCK HDFC Bank Credit Card,HDFC Bank,3000.0,100000.0,750.0,food,5.0,0,1
+Marriott Bonvoy HDFC Bank Credit Card,HDFC Bank,3000.0,100000.0,750.0,travel,3.0,0,1
+Diners Club Black Credit Card,HDFC Bank,10000.0,250000.0,780.0,travel,5.0,0,1
+Diners Club Black Metal Edition Credit Card,HDFC Bank,10000.0,250000.0,780.0,travel,5.0,0,1
+INFINIA Metal Edition,HDFC Bank,12500.0,400000.0,800.0,travel,5.0,0,1
+Amazon Pay Credit Card,ICICI Bank,0.0,20000.0,680.0,online,5.0,0,0
+Coral Credit Card,ICICI Bank,500.0,30000.0,700.0,general,1.0,0,0
+HPCL Super Saver Credit Card,ICICI Bank,500.0,30000.0,700.0,fuel,5.0,0,0
+Rubyx Credit Card,ICICI Bank,3000.0,100000.0,760.0,travel,2.0,0,1
+Sapphiro Credit Card,ICICI Bank,3500.0,100000.0,760.0,travel,2.0,0,1
+Quantum+ Credit Card,IDFC FIRST Bank,0.0,25000.0,700.0,general,2.0,0,0
+Shaurya SBI Card,SBI Card,250.0,20000.0,680.0,general,1.0,250,0
+SimplyCLICK SBI Card,SBI Card,499.0,20000.0,680.0,online,2.5,0,0
+PhonePe SBI Card PURPLE,SBI Card,499.0,20000.0,680.0,online,3.0,500,0
+SimplySAVE SBI Card,SBI Card,499.0,20000.0,680.0,food,2.5,500,0
+Paytm SBI Card,SBI Card,499.0,20000.0,680.0,online,3.0,0,0
+Reliance SBI Card,SBI Card,499.0,20000.0,680.0,shopping,2.0,500,0
+Landmark Rewards SBI Card,SBI Card,499.0,20000.0,680.0,shopping,2.5,500,0
+Google Pay Flex SBI Card,SBI Card,499.0,20000.0,680.0,online,1.0,1000,0
+SBI Card Unnati,SBI Card,499.0,20000.0,680.0,general,1.0,0,0
+BPCL SBI Card,SBI Card,499.0,20000.0,680.0,fuel,4.25,500,0
+Tata Neu Plus SBI Card,SBI Card,499.0,20000.0,680.0,shopping,2.0,0,1
+Tata Card,SBI Card,499.0,20000.0,680.0,shopping,5.0,0,0
+Apollo SBI Card,SBI Card,499.0,20000.0,680.0,general,1.0,125,0
+Flipkart SBI Card,SBI Card,500.0,20000.0,680.0,shopping,5.0,0,0
+IRCTC SBI Platinum Card,SBI Card,500.0,20000.0,680.0,travel,10.0,0,1
+CASHBACK SBI Card,SBI Card,999.0,25000.0,700.0,online,5.0,0,0
+SBI Card PULSE,SBI Card,1499.0,40000.0,720.0,general,1.5,7999,1
+PhonePe SBI Card SELECT BLACK,SBI Card,1499.0,40000.0,720.0,online,10.0,1500,1
+Apollo SBI Card SELECT,SBI Card,1499.0,40000.0,720.0,general,1.5,0,1
+Paytm SBI Card SELECT,SBI Card,1499.0,40000.0,720.0,online,3.0,0,1
+Shaurya Select SBI Card,SBI Card,1499.0,40000.0,720.0,general,1.5,1500,1
+Landmark Rewards SBI Card SELECT,SBI Card,1499.0,40000.0,720.0,shopping,3.75,1500,0
+IndiGo SBI Card,SBI Card,1499.0,40000.0,720.0,travel,2.0,2500,1
+IRCTC SBI Card Premier,SBI Card,1499.0,40000.0,720.0,travel,10.0,1500,0
+SBI Card MILES,SBI Card,1499.0,40000.0,720.0,travel,1.0,1500,1
+BPCL SBI Card OCTANE,SBI Card,1499.0,40000.0,720.0,fuel,7.25,1500,1
+Club Vistara SBI Card,SBI Card,1499.0,40000.0,720.0,travel,1.5,0,1
+Air India SBI Platinum Card,SBI Card,1499.0,40000.0,720.0,travel,5.0,5000,0
+Tata Neu Infinity SBI Card,SBI Card,1499.0,40000.0,720.0,shopping,5.0,0,1
+Doctor's SBI Card (IMA),SBI Card,1499.0,40000.0,720.0,general,5.0,0,0
+SBI Card PRIME,SBI Card,2999.0,75000.0,750.0,general,2.0,3000,1
+Reliance SBI Card PRIME,SBI Card,2999.0,75000.0,750.0,shopping,2.5,0,1
+Landmark Rewards SBI Card PRIME,SBI Card,2999.0,75000.0,750.0,shopping,3.0,3000,1
+Tata Card SELECT,SBI Card,2999.0,75000.0,750.0,shopping,5.0,6000,0
+KrisFlyer SBI Card,SBI Card,2999.0,75000.0,750.0,travel,1.5,3000,1
+SBI Card MILES PRIME,SBI Card,2999.0,75000.0,750.0,travel,2.0,3000,1
+Club Vistara SBI Card PRIME,SBI Card,2999.0,75000.0,750.0,travel,2.0,0,1
+Titan SBI Card,SBI Card,2999.0,75000.0,750.0,shopping,3.0,3000,0
+SBI Card ELITE,SBI Card,4999.0,150000.0,780.0,general,2.5,5000,1
+SBI Card Miles Elite,SBI Card,4999.0,150000.0,780.0,travel,2.5,5000,1
+IndiGo SBI Card ELITE,SBI Card,4999.0,150000.0,780.0,travel,3.0,0,1
+Air India SBI Signature Card,SBI Card,4999.0,150000.0,780.0,travel,5.0,20000,1
+Aurum Card,SBI Card,9999.0,300000.0,800.0,travel,3.0,40000,1
+KrisFlyer SBI Card Apex,SBI Card,9999.0,300000.0,800.0,travel,2.0,10000,1
